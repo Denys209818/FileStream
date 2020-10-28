@@ -1,0 +1,6 @@
+C:\Users\Denis\Desktop\Новая папка C#\FileWork\FileWork\bin\Debug\FileWork.exe.config
+C:\Users\Denis\Desktop\Новая папка C#\FileWork\FileWork\bin\Debug\FileWork.exe
+C:\Users\Denis\Desktop\Новая папка C#\FileWork\FileWork\bin\Debug\FileWork.pdb
+C:\Users\Denis\Desktop\Новая папка C#\FileWork\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\FileWork\FileWork\obj\Debug\FileWork.exe
+C:\Users\Denis\Desktop\Новая папка C#\FileWork\FileWork\obj\Debug\FileWork.pdb
